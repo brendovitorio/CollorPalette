@@ -1,0 +1,2 @@
+# CollorPalette
+PALETA DE CORES RANDOMICA
